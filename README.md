@@ -1,7 +1,7 @@
-# ClojureBridge San Francisco
+# ClojureBridge Chicago
 
 This repository is indended to support the volunteer organizers
-for the upcoming ClojureBridge workshop in San Francisco.
+for the upcoming ClojureBridge workshop in Chicago.
 
 ## Resources
 
